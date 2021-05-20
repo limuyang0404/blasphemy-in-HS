@@ -1,7 +1,3 @@
 # blasphemy-in-HS
-DJWCB
 
-
-
-
-DJWCB
+discuss the spell 'blasphemy' in HS
